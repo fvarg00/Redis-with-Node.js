@@ -1,7 +1,7 @@
 {
   "name": "redusers",
   "version": "1.0.0",
-  "description": "Simple user management app",
+  "description": "Node.js with redis caching",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index"
